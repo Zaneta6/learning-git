@@ -1,7 +1,11 @@
 print("Lista zakupów")
 shopping = {
     "Piekarnia":["Chleb", "Pączek", "Bułki", "Rogale"],
+<<<<<<< HEAD
     "Warzywniak":["Marchew", "Seler", "Rukola", "Pomidory", "Papryka"],
+=======
+    "Warzywniak":["Sałata", "Ogórki", "Cebula"],
+>>>>>>> second-branch
     "Sportowy": ["Buty", "Piłka", "Rolki"]
 }
 ilosc_produktow = 0
