@@ -1,7 +1,8 @@
 print("Lista zakupów")
 shopping = {
     "Piekarnia":["Chleb", "Pączek", "Bułki"],
-    "Warzywniak":["Marchew", "Seler", "Rukola"]
+    "Warzywniak":["Marchew", "Seler", "Rukola"],
+    "Sportowy": ["Buty", "Piłka"]
 }
 ilosc_produktow = 0
 for shop in shopping:
